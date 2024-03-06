@@ -1,0 +1,389 @@
+.clrwhite {
+    color: #fff !important;
+}
+
+.green {
+    color: #009140 !important;
+}
+
+/* #21b632 0,145,64 */
+
+.red {
+    color: #AF0000 !important;
+}
+
+/* 175,0,0 */
+
+.black {
+    color: rgba(0, 0, 0, 0.8) !important;
+}
+
+/* 33,37,41  */
+
+.strong {
+    font-weight: bold !important;
+}
+
+.bg_green {
+    background-color: #009140 !important;
+}
+
+.bdrclr_green {
+    border-color: #009140 !important;
+}
+
+.theme-red {
+    color: #EF001B;
+}
+
+.marbtm10 {
+    margin-bottom: 10px !important;
+}
+
+.item7-card-desc a:first-child {
+    margin-right: 0px !important;
+}
+
+.owl-carousel .owl-item {
+    cursor: default !important;
+}
+
+.minhgt400 {
+    min-height: 400px !important;
+}
+
+.minhgt375 {
+    min-height: 375px !important;
+}
+
+.minhgt350 {
+    min-height: 350px !important;
+}
+
+.minhgt325 {
+    min-height: 325px !important;
+}
+
+.minhgt300 {
+    min-height: 300px !important;
+}
+
+.minhgt275 {
+    min-height: 275px !important;
+}
+
+.minhgt250 {
+    min-height: 250px !important;
+}
+
+.minhgt225 {
+    min-height: 225px !important;
+}
+
+.minhgt150 {
+    min-height: 150px !important;
+}
+
+.minhgt100 {
+    min-height: 100px !important;
+}
+
+.minhgt50 {
+    min-height: 50px !important;
+}
+
+.hgt100 {
+    height: 100px !important;
+}
+
+.hgt60 {
+    height: 60px !important;
+}
+
+.w95_age {
+    width: 95% !important;
+}
+
+.elipsisdesc {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.blogimgSize {
+    width: 325px !important;
+    height: 200px !important;
+}
+
+.rmsign {
+    position: relative;
+    top: 2px !important;
+}
+
+.padtop15 {
+    padding-top: 1.5rem !important;
+}
+
+.padtop0 {
+    padding-top: 0px !important;
+}
+
+.qacalogo {
+    width: 275px !important;
+}
+
+.profile-pic-img {
+    width: 10rem !important;
+    height: 10rem !important;
+}
+
+.brroundsemi {
+    border-radius: 5% !important;
+}
+
+.stamp {
+    background-color: transparent !important;
+}
+
+.textarealimit {
+    padding: 0px !important;
+    line-height: 11px;
+}
+
+.gatedge {
+    width: 275px !important;
+    margin-top: 10px;
+    border: none !important;
+}
+
+.qacafootlogo {
+    width: 150px !important;
+    margin-bottom: 15px;
+}
+
+.abttextfoot {
+    width: 225px !important;
+    color: #fff !important;
+    line-height: 25px !important;
+}
+
+.blogfoot {
+    color: #fff !important;
+    line-height: 12px !important;
+}
+
+.linehgt30 {
+    line-height: 30px !important;
+}
+
+.bg-background-1:before,
+.banner1:before {
+    background: rgba(0, 0, 0, 0) !important
+}
+
+.bg-background-2:before,
+.banner1:before {
+    background: rgba(0, 0, 0, 0) !important
+}
+
+.slider-header .item:before {
+    background: rgba(40, 40, 52, 0.0) !important;
+}
+
+.modal:before {
+    height: auto !important;
+}
+
+.minmax200ht {
+    min-height: 200px !important;
+    max-height: 200px !important;
+    overflow: hidden !important;
+}
+
+.minmax100ht {
+    min-height: 100px !important;
+    max-height: 100px !important;
+    overflow: hidden !important;
+}
+
+.minmax70ht {
+    min-height: 70px !important;
+    max-height: 70px !important;
+    overflow: hidden !important;
+}
+
+.minmax60ht {
+    min-height: 60px !important;
+    max-height: 60px !important;
+    overflow: hidden !important;
+}
+
+.minmax45ht {
+    min-height: 45px !important;
+    max-height: 45px !important;
+    overflow: hidden !important;
+}
+
+.minmax25ht {
+    min-height: 24px !important;
+    max-height: 24px !important;
+    overflow: hidden !important;
+}
+
+.font-size-20 {
+    font-size: 20px !important;
+}
+
+.font-size-16 {
+    font-size: 16px !important;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.font42 {
+    font-size: 42px;
+}
+
+.fontweight600 {
+    font-weight: 600;
+}
+
+.ofhidden {
+    overflow: hidden;
+}
+
+.bg-dark {
+    background: url(https://www.qualityaustriacentralasia.com/uploads/images/JaiPo6BHk7D1m84Lc5gF23eN.jpg);
+}
+
+.card.red-shaddow:hover {
+    box-shadow: 0 5px 12px rgb(239, 0, 27, 0.2) !important;
+}
+
+.card.red-shaddow {
+    box-shadow: 0 5px 12px rgb(239, 0, 27, 0.2) !important;
+}
+
+.padbottom20 {
+    padding-bottom: 20px !important;
+}
+
+.resize-none-100 {
+    resize: none;
+    min-height: 100px !important;
+}
+
+.bdrclr {
+    border-color: #ccc !important;
+}
+
+.w10 {
+    width: 10px !important;
+}
+
+.w20 {
+    width: 20px !important;
+}
+
+.w50 {
+    width: 50px !important;
+}
+
+.w100 {
+    width: 100px !important;
+}
+
+.w120 {
+    width: 120px !important;
+}
+
+.w150 {
+    width: 150px !important;
+}
+
+.w200 {
+    width: 200px !important;
+}
+
+.w250 {
+    width: 250px !important;
+}
+
+.w300 {
+    width: 300px !important;
+}
+
+.w50age {
+    width: 50% !important;
+}
+
+.textright {
+    text-align: right !important;
+}
+
+.textcenter {
+    text-align: center !important;
+}
+
+/*.badge-pill {background: #000000 !important;}*/
+
+.top-bar.top-bar-light {
+    background: #ef001b;
+}
+
+.top-bar.top-bar-light .top-bar-start .socials li a i {
+    color: #FFFFFF;
+    border-color: rgba(239, 0, 27, 0.2) !important;
+}
+
+.top-bar.top-bar-light .top-bar-end span {
+    color: #ffffff;
+}
+
+.top-bar.top-bar-light .top-bar-start .socials li a,
+.top-bar.top-bar-light .top-bar-end .custom li a {
+    border-color: transparent !important;
+}
+
+.section-title h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.jobposting {
+    bottom: 20px !important;
+}
+
+#owl-demo2 .cat-item .cat-img1 {
+    background: transparent !important;
+    width: 150px !important;
+    height: 150px !important;
+}
+
+.cat-item .cat-img1 img {
+    width: 100px !important;
+    height: 100px !important;
+}
+
+.modal-fullscreen-qaca {
+    width: 100% !important;
+    margin: 0px auto !important;
+    height: 100vh !important;
+}
+
+#LpIdoLink {
+    cursor: pointer;
+}
+
+/* Change color of navigation from white to black == 11-08-2023 */
+
+.bg-background-1 .sticky-wrapper .horizontalMenu>.horizontalMenu-list>li>a,
+.banner1 .sticky-wrapper .horizontalMenu>.horizontalMenu-list>li>a {
+    color: #000000;
+    font-weight: 700;
+}
+
+.bg-background-1 .sticky-wrapper .horizontalMenu>.horizontalMenu-list>li:hover>a,
+.banner1 .sticky-wrapper .horizontalMenu>.horizontalMenu-list>li:hover>a {
+    color: #ef001b !important;
+}
